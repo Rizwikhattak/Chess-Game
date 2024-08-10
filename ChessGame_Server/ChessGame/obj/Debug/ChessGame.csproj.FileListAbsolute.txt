@@ -1,0 +1,14 @@
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.Form1.resources
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\bin\Debug\PawnUpdation.exe
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\bin\Debug\PawnUpdation.pdb
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\bin\Debug\PawnUpdation.exe.config
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.Up2Date

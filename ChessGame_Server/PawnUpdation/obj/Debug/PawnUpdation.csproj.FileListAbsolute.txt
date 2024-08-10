@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\bin\Debug\PawnUpdation.exe.config
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\bin\Debug\PawnUpdation.exe
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\bin\Debug\PawnUpdation.pdb
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\obj\Debug\PawnUpdation.csproj.AssemblyReference.cache
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\obj\Debug\PawnUpdation.pawnUpdation.resources
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\obj\Debug\PawnUpdation.Properties.Resources.resources
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\obj\Debug\PawnUpdation.csproj.GenerateResource.cache
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\obj\Debug\PawnUpdation.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\obj\Debug\PawnUpdation.exe
+C:\Users\Muhammad Rizwan\source\repos\ChessGame\PawnUpdation\obj\Debug\PawnUpdation.pdb
